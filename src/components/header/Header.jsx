@@ -1,6 +1,6 @@
 import React from "react";
 import CTA from "./CTA";
-import ME from "../../assets/Akshay-Krishna.pdf";
+import ME from "../../assets/MyImagePortfolio.png";
 import Headersocial from "./HeaderSocials";
 import "./header.css";
 
@@ -15,7 +15,7 @@ function Header() {
         <Headersocial />
 
         <div className="me">
-          <img id="mac" src={ME} alt="" />
+          <img id="mac" src={ME} alt="anime-image" />
         </div>
 
         <a href="#contact" className="scroll__down">

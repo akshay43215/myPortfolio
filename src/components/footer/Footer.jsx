@@ -11,7 +11,7 @@ function Footer() {
         Akshay Krishna
       </a>
       <ul className="permalinks">
-        <li>
+        <li>  
           <a href="#">Home</a>
         </li>
         <li>
